@@ -1,6 +1,6 @@
 # Election and Voting Management System
 
-A relational database for voters, candidates, elections and votes, built with PostgreSQL (or SQLite).
+A relational database for voters, candidates, elections and votes, built with PostgreSQL.
 
 ## Schema
 
